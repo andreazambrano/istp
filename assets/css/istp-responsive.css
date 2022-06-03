@@ -793,8 +793,9 @@
 
     /*** Main Header One Css***/
     .main-header--one__top-left {
-        float: none;
-        text-align: center;
+        float: left;
+        text-align: left;
+        width: 80%;
     }
 
     .main-header--one__top-contact-info {
