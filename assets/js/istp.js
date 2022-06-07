@@ -197,157 +197,6 @@ if($('.parallax-scene-5').length){
     
 
 
-    
-    // Testimonial Two Carousel
-    if ($(".testimonials-two__carousel").length) {
-        $(".testimonials-two__carousel").owlCarousel({
-            loop: true,
-            margin: 30,
-            nav: false,
-            smartSpeed: 500,
-            autoHeight: false,
-            autoplay: true,
-            dots: true,
-            autoplayTimeout: 10000,
-            navText: [
-                '<span class="icon-right-arrow left"></span>',
-                '<span class="icon-right-arrow"></span>',
-            ],
-            responsive: {
-                0: {
-                    items: 1,
-                },
-                600: {
-                    items: 1,
-                },
-                800: {
-                    items: 2,
-                },
-                1024: {
-                    items: 2,
-                },
-                1200: {
-                    items: 3,
-                },
-            },
-        });
-    }
-
-
-    // Testimonial One Carousel
-    if ($(".testimonials-one__carousel").length) {
-        $(".testimonials-one__carousel").owlCarousel({
-            loop: true,
-            margin: 30,
-            nav: false,
-            smartSpeed: 500,
-            autoHeight: false,
-            autoplay: true,
-            dots: true,
-            autoplayTimeout: 10000,
-            navText: [
-                '<span class="icon-right-arrow left"></span>',
-                '<span class="icon-right-arrow"></span>',
-            ],
-            responsive: {
-                0: {
-                    items: 1,
-                },
-                600: {
-                    items: 1,
-                },
-                800: {
-                    items: 2,
-                },
-                1024: {
-                    items: 2,
-                },
-                1200: {
-                    items: 3,
-                },
-            },
-        });
-    }
-
-
-
-
-// Testimonial One Carousel
-if ($(".testimonial-one__carousel").length) {
-  $(".testimonial-one__carousel").owlCarousel({
-      loop: true,
-      margin: 30,
-      nav: true,
-      smartSpeed: 500,
-      autoHeight: false,
-      autoplay: true,
-      dots: true,
-      autoplayTimeout: 10000,
-      navText: [
-          '<i class="fa fa-angle-double-left" aria-hidden="true"></i>',
-          '<i class="fa fa-angle-double-right" aria-hidden="true"></i>',
-      ],
-      responsive: {
-          0: {
-              items: 1,
-          },
-          600: {
-              items: 1,
-          },
-          800: {
-              items: 1,
-          },
-          1024: {
-              items: 1,
-          },
-          1200: {
-              items: 2,
-          },
-      },
-  });
-}
-
-
-
-
-// Partner One Carousel
-if ($(".partner-one__carousel").length) {
-  $(".partner-one__carousel").owlCarousel({
-      loop: true,
-      margin: 0,
-      nav: false,
-      smartSpeed: 500,
-      autoHeight: false,
-      autoplay: true,
-      dots: false,
-      autoplayTimeout: 10000,
-      navText: [
-          '<span class="icon-right-arrow left"></span>',
-          '<span class="icon-right-arrow"></span>',
-      ],
-      responsive: {
-          0: {
-              items: 1,
-          },
-          600: {
-              items: 2,
-          },
-          800: {
-              items: 3,
-          },
-          1024: {
-              items: 4,
-          },
-          1200: {
-              items: 4,
-          },
-      },
-  });
-}
-
-
-
-
 
     // Main Slider Three Left Carousel
     if ($(".main-slider-three__left-carousel").length) {
@@ -598,15 +447,6 @@ if ($(".search-toggler").length) {
 }
 
 
-if ($(".mini-cart__toggler").length) {
-  $(".mini-cart__toggler").on("click", function (e) {
-    e.preventDefault();
-    $(".mini-cart").toggleClass("expanded");
-    $(".mobile-nav__wrapper").removeClass("expanded");
-    $("body").toggleClass("locked");
-  });
-}
-
 
 
 if ($(".odometer").length) {
@@ -769,35 +609,7 @@ if ($(".odometer").length) {
     });
   }
 
-  function thmTestimonialsThumbCarousel() {
-    if ($("#testimonials-one__thumb").length) {
-      let testimonialsThumb = new Swiper("#testimonials-one__thumb", {
-        slidesPerView: 3,
-        spaceBetween: 0,
-        speed: 1400,
-        watchSlidesVisibility: true,
-        watchSlidesProgress: true,
-        autoplay: {
-          delay: 5000
-        }
-      });
-
-      let testimonialsCarousel = new Swiper("#testimonials-one__carousel", {
-        observer: true,
-        observeParents: true,
-        speed: 1400,
-        mousewheel: true,
-        slidesPerView: 1,
-        autoplay: {
-          delay: 5000
-        },
-        thumbs: {
-          swiper: testimonialsThumb
-        }
-      });
-    }
-  }
-
+ 
 
 // ===Project===
 function projectMasonaryLayout() {

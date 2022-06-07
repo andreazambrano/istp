@@ -49,42 +49,6 @@
 
 
 
-@media only screen and (min-width: 1200px) and (max-width: 1499px) {
-
-
-    /***About Three Css***/
-    .about-three .container-fullwidth {
-        display: block;
-    }
-
-    .about-three__content-box .section-title__title br {
-        display: none;
-    }
-
-    .about-three__img-box {
-        width: 100%;
-        float: none;
-        max-width: 900px;
-        margin: 0 auto;
-    }
-
-    .about-three__content-box {
-        float: none;
-        padding-left: 0px;
-        max-width: 900px;
-        width: 100%;
-        height: 100%;
-        margin: 0 auto;
-        padding-top: 60px;
-        padding-bottom: 120px;
-    }
-
-
-}
-
-
-
-
 
 
 
@@ -113,7 +77,7 @@
     }
 
     .main-header--two .main-menu .mobile-nav__toggler {
-        color: #fff;
+        color: #154449;
     }
 
 }
@@ -238,39 +202,9 @@
         padding: 55px 25px 60px;
     }
 
-    /***Blog One Css***/
-    .blog-one__single-content {
-        padding: 45px 20px 38px;
-    }
-
-    .blog-one__single-content-overlay-mata-info {
-        left: 12px;
-        padding: 9px 15px 4px;
-    }
-
-    .blog-one__single-content-title {
-        font-size: 22px;
-    }
-
-    /***Why Choose One Css***/
-    .why-choose-one .section-title__title br {
-        display: none;
-    }
-
-    .why-choose-one .section-title__title {
-        font-size: 45px;
-    }
+ 
 
 
-
-    /***Newsletter One Css***/
-    .newsletter-one .section-title__title br {
-        display: none;
-    }
-
-    .newsletter-one__right {
-        margin-left: 50px;
-    }
 
     /***Footer One Css***/
     .footer-widget__links {
@@ -290,25 +224,6 @@
         width: 160px;
     }
 
-    /***Welcome One Css***/
-    .welcome-one .section-title__title br {
-        display: none;
-    }
-
-    .welcome-one__right {
-        float: none;
-        margin-left: 100px;
-        margin-top: 60px;
-    }
-
-    .welcome-one__right-img1 img {
-        width: auto;
-    }
-
-    .welcome-one__right .shape1 {
-        right: -100px;
-    }
-
     /***Counter One Css***/
     .counter-one__right-single {
         width: 160px;
@@ -323,52 +238,7 @@
 
     }
 
-    /***Meet Teachers One Css***/
-    .meet-teachers-one__single-middle-content {
-        padding: 0px 40px 0px;
-    }
-
-    .meet-teachers-one__single-bottom-content {
-        padding: 0px 30px 0px;
-    }
-
-    /***About Two Css***/
-    .about-two .section-title__title {
-        font-size: 39px;
-    }
-
-    /***Testimonials Two Css***/
-    .testimonials-two__pattern {
-        display: none;
-    }
-
-    /***Contact Details One Css***/
-    .contact-details-one__single {
-        padding: 24px 20px 24px;
-    }
-
-    .contact-details-one__single-text {
-        padding-left: 12px;
-    }
-
-    .contact-details-one__single-text h4 {
-        font-size: 16px;
-    }
-
-    /***Contact Page Css**/
-    .contact-page .section-title__title {
-        font-size: 42px;
-    }
-
-    .contact-page .section-title__title br {
-        display: none;
-    }
-
-    /***Teaching One Css**/
-    .teaching-one__apply-form {
-        padding: 55px 35px 60px;
-    }
-
+  
     /***Course Details Css**/
     .course-details__review-box {
         width: 225px;
@@ -390,22 +260,7 @@
         font-size: 15px;
     }
 
-    /***Testimonials Two Css**/
-    .testimonials-two .section-title__title br {
-        display: none;
-    }
-
-    .testimonials-two__right {
-        width: 100%;
-    }
-
-    .testimonials-two__left-bg {
-        display: none;
-    }
-
-    .testimonials-two__left {
-        margin-bottom: 50px;
-    }
+   
 
 
 
@@ -562,49 +417,7 @@
         margin-top: 80px;
     }
 
-    /***Why Choose One Css***/
-    .why-choose-one {
-        padding: 120px 0px 0px;
-    }
-
-    .why-choose-one .section-title__title br {
-        display: none;
-    }
-
-    .why-choose-one::before {
-        display: none;
-    }
-
-    .why-choose-one__left {
-        max-width: none;
-    }
-
-    .why-choose-one__left-learning-box .text h4 br {
-        display: none;
-    }
-
-    .why-choose-one__right {
-        margin-top: 50px;
-    }
-
-    /***Testimonials One Css***/
-    .testimonials-one .shape1 {
-        display: none;
-    }
-
-    /***Newsletter One***/
-    .newsletter-one__right {
-        margin-left: 0px;
-        margin-top: 30px;
-    }
-
-    .newsletter-one__right .shape1 {
-        display: none;
-    }
-
-    .newsletter-one .section-title__title br {
-        display: none;
-    }
+   
 
     /***Footer One Css***/
     .footer-widget__contact {
@@ -631,25 +444,7 @@
         overflow: hidden;
     }
 
-    /***Welcome One Css***/
-    .welcome-one .section-title__title br {
-        display: none;
-    }
-
-    .welcome-one__right {
-        float: none;
-        margin-left: 100px;
-        margin-top: 60px;
-    }
-
-    .welcome-one__right-img1 img {
-        width: auto;
-    }
-
-    .welcome-one__right .shape1 {
-        right: -100px;
-    }
-
+  
     /***Counter One Css***/
     .counter-one {
         padding: 340px 0px 90px;
@@ -663,122 +458,14 @@
         margin-top: 50px;
     }
 
-    /***Meet Teachers One Css***/
-    .meet-teachers-one__single {
-        max-width: 500px;
-        margin: 0 auto 30px;
-    }
-
-    /***Cta One Css***/
-    .cta-one__wrapper {
-        flex-direction: column;
-        padding: 75px 60px 80px;
-    }
-
-    .cta-one__right-btn {
-        margin-top: 20px;
-    }
-
-    /***Registration Two Css***/
-    .registration-two__wrapper {
-        flex-direction: column;
-    }
-
-    .registration-two__left-text {
-        text-align: center;
-    }
-
-    .registration-two__right-btn {
-        margin-top: 20px;
-    }
-
-    /***About Two Css***/
-    .about-two .section-title__title br {
-        display: none;
-    }
-
-    /***Testimonials Two Css***/
-    .testimonials-two__pattern {
-        display: none;
-    }
-
-    /***Registration Two Css***/
-    .registration-two__wrapper .shape1 {
-        display: none;
-    }
-
-    /***Counter One About Css***/
-    .counter-one--about {
-        padding: 120px 0px 90px;
-    }
-
-    /***Contact Details One Css***/
-    .contact-details-one__single {
-        max-width: 500px;
-        margin: 0 auto 30px;
-    }
-
-    /***Contact Page Css**/
-    .contact-page .section-title__title br {
-        display: none;
-    }
-
-    .contact-page__left {
-        margin-bottom: 40px;
-    }
-
-    /***Company Logos One Css**/
-    .company-logos-one {
-        padding: 0px 0px 0px;
-    }
-
-    .company-logos-one--two {
-        padding: 0px 0px 120px;
-    }
-
-    /***Teaching One Css**/
-    .meet-teachers-one--teachers {
-        position: relative;
-        display: block;
-        padding: 108px 0px 90px;
-    }
-
-    .teaching-one__apply-form {
-        max-width: none;
-    }
-
-    .teaching-one__content {
-        margin-top: 50px;
-    }
+   
 
     /***Course Details Css**/
     .course-details__sidebar {
         margin-top: 40px;
     }
 
-    /***News Details Css**/
-    .blog-one__single.style2 {
-        max-width: none;
-        margin: 0px 0px 30px;
-    }
-
-    /***Testimonials Two Css**/
-    .testimonials-two .section-title__title br {
-        display: none;
-    }
-
-    .testimonials-two__right {
-        width: 100%;
-    }
-
-    .testimonials-two__left-bg {
-        display: none;
-    }
-
-    .testimonials-two__left {
-        margin-bottom: 50px;
-    }
-
+    
 
 
 }
@@ -793,9 +480,8 @@
 
     /*** Main Header One Css***/
     .main-header--one__top-left {
-        float: left;
-        text-align: left;
-        width: 80%;
+        float: none;
+        text-align: center;
     }
 
     .main-header--one__top-contact-info {
@@ -884,39 +570,13 @@
         font-size: 38px;
     }
 
-    /***Testimonials One Css***/
-    .testimonials-one .shape1 {
-        display: none;
-    }
-
-    .testimonials-one__pattern {
-        display: none;
-    }
-
+   
     /***Categories One Css***/
     .categories-one__single {
         max-width: 500px;
     }
 
-    /***Blog One Css***/
-    .blog-one__single {
-        max-width: 500px;
-        margin: 0 auto 30px;
-    }
-
-    .blog-one__single-content {
-        padding: 45px 20px 38px;
-    }
-
-    .blog-one__single-content-overlay-mata-info {
-        left: 20px;
-        padding: 9px 15px 4px;
-    }
-
-    .blog-one__single-content-title {
-        font-size: 22px;
-    }
-
+  
     /***Registration One***/
     .registration-one .section-title {
         text-align: center;
@@ -956,52 +616,7 @@
         padding: 55px 15px 60px;
     }
 
-    /***Why Choose One Css***/
-    .why-choose-one {
-        padding: 120px 0px 0px;
-    }
-
-    .why-choose-one .section-title__title br {
-        display: none;
-    }
-
-    .why-choose-one::before {
-        display: none;
-    }
-
-    .why-choose-one__left {
-        max-width: none;
-    }
-
-    .why-choose-one__left-learning-box .text h4 br {
-        display: none;
-    }
-
-    .why-choose-one__right {
-        margin-top: 50px;
-    }
-
-    /***Newsletter One***/
-    .newsletter-one__right {
-        margin-left: 0px;
-        margin-top: 30px;
-    }
-
-    .newsletter-one .section-title__title {
-        font-size: 39px;
-    }
-
-    .newsletter-one .section-title__title br {
-        display: none;
-    }
-
-    .newsletter-one__right .shape1 {
-        display: none;
-    }
-
-    .newsletter-one__right .shape2 {
-        display: none;
-    }
+    
 
     /***Footer One Css***/
     .footer-widget__courses {
@@ -1019,59 +634,7 @@
         margin-bottom: 35px;
     }
 
-    /***Categories Two Css***/
-    .categories-two__single {
-        display: block;
-        float: none;
-        width: 285px;
-        margin: 0 auto 30px;
-    }
-
-    .categories-two__single:last-child {
-        margin-right: auto;
-    }
-
-    .categories-two .shape1 {
-        display: none;
-    }
-
-    /***Welcome One Css***/
-    .welcome-one .section-title__title br {
-        display: none;
-    }
-
-    .welcome-one__right {
-        float: none;
-        margin-top: 60px;
-    }
-
-    .welcome-one__right .shape1 {
-        display: none;
-    }
-
-    .welcome-one__right-img2 {
-        position: relative;
-        left: 0px;
-        margin-top: 20px;
-    }
-
-    .welcome-one__left-features-box-single-title h4 br {
-        display: none;
-    }
-
-    .welcome-one__left-features-box-single {
-        margin-right: 0;
-        margin-bottom: 15px;
-    }
-
-    .welcome-one__left-features-box-single:last-child {
-        margin-bottom: 0;
-    }
-
-    /***Video One Css***/
-    .video-one__box-title h2 {
-        font-size: 45px;
-    }
+   
 
     /***Counter One Css***/
     .counter-one {
@@ -1104,97 +667,7 @@
         margin-right: auto;
     }
 
-    /***Meet Teachers One Css***/
-    .meet-teachers-one__single {
-        max-width: 500px;
-        margin: 0 auto 30px;
-    }
-
-    .meet-teachers-one__single-middle-content {
-        padding: 0px 40px 0px;
-    }
-
-    .meet-teachers-one__single-bottom-content {
-        padding: 0px 30px 0px;
-    }
-
-    /***Cta One Css***/
-    .cta-one__wrapper {
-        flex-direction: column;
-        padding: 75px 25px 80px;
-    }
-
-    .cta-one__right-btn {
-        margin-top: 20px;
-    }
-
-    .cta-one__left-text {
-        font-size: 24px;
-        text-align: center;
-    }
-
-    /***Features Two Css***/
-    .features-two__single {
-        max-width: none;
-    }
-
-    .features-two__single-img-inner {
-        width: 100%;
-    }
-
-    .features-two__single-overlay {
-        position: relative;
-        width: 290px;
-        padding: 35px 30px 31px;
-        bottom: 0px;
-        right: 0;
-    }
-
-    /***Registration Two Css***/
-    .registration-two__wrapper {
-        flex-direction: column;
-    }
-
-    .registration-two__left-text {
-        text-align: center;
-        font-size: 35px;
-    }
-
-    .registration-two__left-text br {
-        display: none;
-    }
-
-    .registration-two__right-btn {
-        margin-top: 20px;
-    }
-
-    /***About Two Css***/
-    .about-two .section-title__title br {
-        display: none;
-    }
-
-    .about-two .section-title {
-        text-align: center;
-    }
-
-    .about-two__text-box {
-        text-align: center;
-    }
-
-    /***Testimonials Two Css***/
-    .testimonials-two__pattern {
-        display: none;
-    }
-
-    /***Registration Two Css***/
-    .registration-two__wrapper .shape1 {
-        display: none;
-    }
-
-    .registration-two__wrapper .shape2 {
-        display: none;
-    }
-
+   
     /***Counter One About Css***/
     .counter-one--about {
         padding: 120px 0px 90px;
@@ -1223,35 +696,7 @@
         margin-bottom: 40px;
     }
 
-    /***Company Logos One Css**/
-    .company-logos-one {
-        padding: 0px 0px 0px;
-    }
-
-    .company-logos-one--two {
-        padding: 0px 0px 120px;
-    }
-
-    /***Teaching One Css**/
-    .meet-teachers-one--teachers {
-        position: relative;
-        display: block;
-        padding: 108px 0px 90px;
-    }
-
-    .teaching-one__apply-form {
-        max-width: none;
-        padding: 55px 20px 60px;
-    }
-
-    .teaching-one__content {
-        margin-top: 50px;
-    }
-
-    .teaching-one__content-title {
-        font-size: 34px;
-    }
-
+   
     /***Course Details Css**/
     .course-details__sidebar {
         margin-top: 40px;
@@ -1350,89 +795,7 @@
         display: none;
     }
 
-    /***News Details Css**/
-    .blog-one__single.style2 {
-        max-width: none;
-        margin: 0px 0px 30px;
-    }
-
-    .blog-one__single.style2 .blog-one__single-content-overlay-mata-info {
-        left: 0px;
-    }
-
-    .news-details__social-list {
-        margin-top: 20px;
-    }
-
-    .author-one {
-        display: block;
-        padding: 60px 20px 54px;
-        text-align: center;
-    }
-
-    .author-one__content {
-        margin-left: 0px;
-        margin-top: 20px;
-    }
-
-    .comment-one__image {
-        position: relative;
-    }
-
-    .comment-one__content {
-        margin-top: 25px;
-        margin-left: 0px;
-    }
-
-    .comment-one__content-top {
-        display: block;
-    }
-
-    .comment-one {
-        text-align: center;
-    }
-
-    .comment-one__content p {
-        margin-top: 15px;
-    }
-
-    .sidebar__post {
-        padding: 35px 25px 32px;
-    }
-
-    .sidebar__tags {
-        padding: 35px 25px 30px;
-    }
-
-
-    /***Testimonials One Css**/
-    .testimonials-one .section-title {
-        margin-bottom: 47px;
-    }
-
-    .testimonials-one .section-title__title {
-        font-size: 37px;
-    }
-
-
-
-    /***Testimonials Two Css**/
-    .testimonials-two__right {
-        width: 100%;
-    }
-
-    .testimonials-two__left-bg {
-        display: none;
-    }
-
-    .testimonials-two__left {
-        margin-bottom: 50px;
-    }
-
-    .testimonials-two .section-title__title br {
-        display: none;
-    }
-
+   
 
     .owl-carousel.owl-dot-type1.style2 .owl-dots {
         display: none;
